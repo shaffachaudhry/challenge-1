@@ -22,7 +22,7 @@ body {
     margin-top: 15px;
 }
 
-.header section {
+.header ul {
     padding: 15px;
     margin-right: 30px;
     float: right;
@@ -31,13 +31,13 @@ body {
 
 }
 
-.header section ul {
+.header ul {
     list-style-type: none;
     display: inline-flex;
     margin-top: 15px;
 }
 
-.header section ul li {
+.header ul li {
     margin-left: 25px;
 }
 
