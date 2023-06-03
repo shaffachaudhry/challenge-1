@@ -11,6 +11,8 @@ https://github.com/shaffachaudhry/challenge-1.git
 
 # URL of Deployed application
 
+https://shaffachaudhry.github.io/challenge-1/
+
 # Mock Image
 A screenshot of the deplpyed application that shows the appearance of said web application
 
