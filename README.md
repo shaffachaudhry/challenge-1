@@ -14,6 +14,6 @@ https://github.com/shaffachaudhry/challenge-1.git
 https://shaffachaudhry.github.io/challenge-1/
 
 # Mock Image
-A screenshot of the deplpyed application that shows the appearance of said web application
+A screenshot of the deployed application that shows the appearance of said web application
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Develop/assets/deployed-application.png)
